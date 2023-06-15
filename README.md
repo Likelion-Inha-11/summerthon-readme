@@ -1,5 +1,5 @@
-# 🌊 SUMMERTHON ![홈페이지 배너](https://github.com/Likelion-Inha-11/summerthon-readme/assets/79556112/4317b24c-570f-490a-aa35-c6169f671cf3)
-- 썸머톤 🌊
+![홈페이지 배너](https://github.com/Likelion-Inha-11/summerthon-readme/assets/79556112/4317b24c-570f-490a-aa35-c6169f671cf3)
+# 🌊 SUMMERTHON - 썸머톤 🌊
 `# 인하대학교` `# 멋쟁이사자처럼 11기` `# 썸머톤` `#SUMMERTHON`
 
 <br/>
