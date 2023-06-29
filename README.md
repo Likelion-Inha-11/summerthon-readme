@@ -1,5 +1,6 @@
-![홈페이지 배너](https://github.com/Likelion-Inha-11/summerthon-readme/assets/79556112/4317b24c-570f-490a-aa35-c6169f671cf3)
+![홈페이지 배너](https://github.com/Likelion-Inha-11/summerthon-readme/assets/79556112/acd9e51d-fa7c-4039-b772-81abb2510752)
 # SUMMERTHON - 썸머톤
+
 `# 인하대학교` `# 멋쟁이사자처럼 11기` `# 썸머톤` `#SUMMERTHON`
 
 <br/>
@@ -38,7 +39,8 @@
 
 <br/>
 
-![일정](https://github.com/Likelion-Inha-11/summerthon-readme/assets/79556112/da4a8847-e4b2-48c9-8959-ac8eeb12fc78)
+![일정](https://github.com/Likelion-Inha-11/summerthon-readme/assets/79556112/e3000d6f-5562-4275-a82a-a753bf09ec2e)
+
 
 <br/>
 
@@ -63,7 +65,8 @@
 
 <br/>
 
-![자유 주제](https://github.com/Likelion-Inha-11/summerthon-readme/assets/79556112/6d73e9a9-d2f1-4564-8fac-42b4bf4a14f0)
+![자유 주제](https://github.com/Likelion-Inha-11/summerthon-readme/assets/79556112/03865864-ac66-43bc-a9a6-1f3877ec226c)
+
 
 > 썸머톤에는 주어진 주제가 없습니다. 이제까지 생각해왔던 여러분만의 톡톡 튀는 아이디어를 실현해보세요.
 
